@@ -1,0 +1,21 @@
+Major,Academic_Standing,AI_Tool,Used_AI_Assignment,AI_Proficiency,AI_Usage_Frequency,AI_Learning_Impact,AI_Hours_Per_Week,Data_Notes
+"Finance, Accounting, Business Administration",Senior,Claude,Yes,Intermediate,Sometimes,1,0.5,
+Business Analytics,Senior,ChatGPT,Yes,Advanced,Often,5,3,
+"Finance, Business Analytics",Junior,Copilot,Yes,Intermediate,Sometimes,3,,Original hours: 2-Jan; confirm numeric hours
+Accounting,Senior,ChatGPT,Yes,Beginner,Often,5,1,
+Accounting,Senior,ChatGPT,Yes,Beginner,Often,5,1,
+Business Administration,Senior,"ChatGPT, Copilot",Yes,Intermediate,Sometimes,2.5,1,
+Business Administration,Senior,Copilot,Yes,Intermediate,Sometimes,3,1,
+Business Administration,Senior,ChatGPT,Yes,Beginner,Sometimes,,3,Original impact: +2 to +3; confirm a single value
+"Business Analytics, Business Administration",Senior,ChatGPT,Yes,Advanced,Often,5,4,
+Business Administration,Senior,"ChatGPT, Claude",Yes,Intermediate,Sometimes,5,1,
+"Business Analytics, Business Administration",Sophomore,Gemini,Yes,Intermediate,Sometimes,5,2,
+Business Administration,Senior,"ChatGPT, Claude, Gemini",Yes,Advanced,Sometimes,3,1,
+Business Analytics,Sophomore,ChatGPT,Maybe,Intermediate,Rarely,4,1,
+Business Administration,Senior,ChatGPT,Yes,Beginner,Sometimes,4,0.5,
+Business Administration,Junior,"ChatGPT, Other",No,Beginner,Rarely,0,1,
+Business Analytics,Senior,"ChatGPT, Claude, Gemini, Copilot",Yes,Intermediate,Often,5,1,
+Business Administration,Senior,ChatGPT,Maybe,Advanced,Sometimes,3,2,
+Business Administration,Senior,ChatGPT,No,Advanced,Never,0,0,
+Business Analytics,Senior,"ChatGPT, Claude, Other",Yes,Advanced,Sometimes,4,1,
+Business Analytics,Senior,Claude,Yes,Intermediate,Often,3,10,
